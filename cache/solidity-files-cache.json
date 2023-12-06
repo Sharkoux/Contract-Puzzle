@@ -1,0 +1,180 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/runner/alchemy-project/Contract-Puzzles/contracts/Contract1.sol": {
+      "lastModificationDate": 1701865230344,
+      "contentHash": "5d13a3dd57c219c0b853cdf72f8d158d",
+      "sourceName": "contracts/Contract1.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game1"
+      ]
+    },
+    "/home/runner/alchemy-project/Contract-Puzzles/contracts/Contract2.sol": {
+      "lastModificationDate": 1701867649387,
+      "contentHash": "e17978d0418bff629e0ebf3056d0dd42",
+      "sourceName": "contracts/Contract2.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game2"
+      ]
+    },
+    "/home/runner/alchemy-project/Contract-Puzzles/contracts/Contract3.sol": {
+      "lastModificationDate": 1701791805340,
+      "contentHash": "2b05124713458378e154e67dfbaf87ed",
+      "sourceName": "contracts/Contract3.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game3"
+      ]
+    },
+    "/home/runner/alchemy-project/Contract-Puzzles/contracts/Contract4.sol": {
+      "lastModificationDate": 1701791805340,
+      "contentHash": "2ced2d36c168fd17a15c507e7e4f8cce",
+      "sourceName": "contracts/Contract4.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game4"
+      ]
+    },
+    "/home/runner/alchemy-project/Contract-Puzzles/contracts/Contract5.sol": {
+      "lastModificationDate": 1701877274105,
+      "contentHash": "5eb8a00ba9074202931216724650f58a",
+      "sourceName": "contracts/Contract5.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game5"
+      ]
+    }
+  }
+}
